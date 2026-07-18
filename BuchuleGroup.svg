@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <!-- Left Column -->
+  <rect x="77" y="160" width="82" height="310" fill="#335E49" />
+  
+  <!-- Middle Column -->
+  <rect x="201" y="91" width="82" height="379" fill="#54626D" />
+  
+  <!-- Right Stylized 'B' Column -->
+  <path d="M 321,23 
+           L 403,23 
+           L 403,215 
+           C 403,245 385,262 355,270 
+           C 392,278 405,310 405,370 
+           C 405,440 355,470 300,470 
+           C 332,455 342,415 340,375 
+           C 337,325 312,295 291,269 
+           C 312,245 321,215 321,215 
+           Z" fill="#335E49" />
+</svg>
